@@ -21,6 +21,7 @@ Developed an interactive **Payment Dashboard** to analyse customer payment behav
 * Interactive slicers and filters
 * KPI cards and dynamic charts
 * Customer demographic insights
+* Dashboard:(https://github.com/Priya1804-ap/payment-dashboard/blob/main/Phonepay_Analysis.pbit)<br/>
 
 ## Business Problem
 
